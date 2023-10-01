@@ -1,4 +1,4 @@
 # Ch1
 #include<stdio.h>
 int main()
-{ 
+{ printf("Vanakkam Tamilnadu")}
